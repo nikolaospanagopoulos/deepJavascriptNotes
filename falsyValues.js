@@ -7,4 +7,7 @@ false
 undefined
 
 
+!!---------> turns to a boolean 
+
+
 */
